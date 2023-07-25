@@ -1,4 +1,4 @@
-## Badges <a name ="Badges"/>[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+## Badges <a name ="Badges"/>
   
 ## Table of Contents
 
@@ -7,7 +7,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Instructions](#instructions)
-- [Contribution guideline](#Contribution)
+- [Contribution guideline](#contribution)
 - [Linkedin](#linkedin)
 - [License](#license)
 - [Github-username](#githubusername)
@@ -15,30 +15,29 @@
 
 
    # Title <a name="title"/>
-   dog 
+   Readme-Creator 
 
    ## Description <a name="description"/>
-   dog
+   Creates Readme according to user input
    
    ## Installation <a name="installation"/>
-   dog
+   Inquirer NPM needed
 
    ## Instructions <a name="instructions"/>
-   dog
+   Run node index.js and follow prompts
 
-   ## Contribution guideline <a name ="Contribution"/>
-   dog
+   ## Contribution guideline <a name ="contribution"/>
+   No License therefore open to public.
 
    ## Linkedin <a name ="linkedin"/>
-   dog
+   Michael Yun
 
    ## License <a name ="license"/>
-   Apache license 2.0
-   https://www.apache.org/licenses/LICENSE-2.0
+   
 
    ## Github Username <a name ="githubusername"/>
-   Github: dog 
-   Github address : https://github.com/dog
+   Github: tkdgns0630 
+   Github address : https://github.com/tkdgns0630
 
    ## Email address <a name ="emailaddress"/>;
-   Any questions please contact : dog
+   Any questions please contact : tkdgns0630@gmail.com
