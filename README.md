@@ -1,4 +1,4 @@
-## Badges <a name ="Badges"/>
+## Badges <a name ="Badges"/>[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
 ## Table of Contents
 
@@ -15,29 +15,30 @@
 
 
    # Title <a name="title"/>
-   Readme-Creator 
+   o 
 
    ## Description <a name="description"/>
-   Creates Readme according to user input
+   o
    
    ## Installation <a name="installation"/>
-   Inquirer NPM needed
+   o
 
    ## Instructions <a name="instructions"/>
-   Run node index.js and follow prompts
+   o
 
    ## Contribution guideline <a name ="contribution"/>
-   No License therefore open to public.
+   o
 
    ## Linkedin <a name ="linkedin"/>
-   Michael Yun
+   o
 
    ## License <a name ="license"/>
-   
+   Apache license 2.0
+   https://www.apache.org/licenses/LICENSE-2.0
 
    ## Github Username <a name ="githubusername"/>
-   Github: tkdgns0630 
-   Github address : https://github.com/tkdgns0630
+   Github: o 
+   Github address : https://github.com/o
 
    ## Email address <a name ="emailaddress"/>;
-   Any questions please contact : tkdgns0630@gmail.com
+   Any questions please contact : o
